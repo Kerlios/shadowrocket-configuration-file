@@ -102,7 +102,7 @@ jobs:
           RULE-SET,https://raw.githubusercontent.com/misha-tgshv/shadowrocket-configuration-file/release/rules/domain_discord.list,PROXY
           # Список портов Discord
           RULE-SET,https://raw.githubusercontent.com/helmiau/clashrules/refs/heads/main/shadowrocket/Game_Discord_Ports.list,PROXY
-          
+          # добавить сюда файл с телеграмом
           # Финальное правило маршрутизации
           FINAL,DIRECT
           
